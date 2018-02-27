@@ -13,7 +13,7 @@ namespace TrainingExamples
 		{
 			InitializeComponent();
 
-			MainPage = new TrainingExamples.MainPage();
+			MainPage = new TrainingExamples.Views.ClientViewPage();
 		}
 
 		protected override void OnStart ()
